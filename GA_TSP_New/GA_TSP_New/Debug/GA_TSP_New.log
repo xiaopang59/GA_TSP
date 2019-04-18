@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/4/8 7:46:49。
+     1>项目“G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP_New\GA_TSP_New\GA_TSP_New.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GA_TSP_New.cpp
+         GA_TSP_New.cpp
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp_new\ga_tsp_new\ga_tsp_new.cpp(163): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp_new\ga_tsp_new\ga_tsp_new.cpp(286): warning C4101: “pointnum”: 未引用的局部变量
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp_new\ga_tsp_new\ga_tsp_new.cpp(611): warning C4101: “i”: 未引用的局部变量
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp_new\ga_tsp_new\ga_tsp_new.cpp(635): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp_new\ga_tsp_new\ga_tsp_new.cpp(629): warning C4101: “j”: 未引用的局部变量
+       Link:
+         G:\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP_New\Debug\GA_TSP_New.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP_New\Debug\GA_TSP_New.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP_New\Debug\GA_TSP_New.lib" /MACHINE:X86 Debug\GA_TSP_New.obj
+         GA_TSP_New.vcxproj -> G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP_New\Debug\GA_TSP_New.exe
+     1>已完成生成项目“G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP_New\GA_TSP_New\GA_TSP_New.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.30

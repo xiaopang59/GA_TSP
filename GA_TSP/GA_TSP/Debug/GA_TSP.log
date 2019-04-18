@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/12/20 22:09:06。
+     1>项目“G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP\GA_TSP\GA_TSP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GA_TSP.cpp
+         GA_TSP.cpp
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp\ga_tsp\ga_tsp.cpp(134): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp\ga_tsp\ga_tsp.cpp(240): warning C4101: “pointnum”: 未引用的局部变量
+     1>g:\microsoft visual studio 2013\code\ga\ga_tsp\ga_tsp\ga_tsp.cpp(477): warning C4101: “j”: 未引用的局部变量
+       Link:
+         G:\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP\Debug\GA_TSP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP\Debug\GA_TSP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP\Debug\GA_TSP.lib" /MACHINE:X86 Debug\GA_TSP.obj
+         GA_TSP.vcxproj -> G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP\Debug\GA_TSP.exe
+     1>已完成生成项目“G:\Microsoft Visual Studio 2013\Code\GA\GA_TSP\GA_TSP\GA_TSP.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.85
